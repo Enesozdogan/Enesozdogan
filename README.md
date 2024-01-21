@@ -1,10 +1,6 @@
 <h1 >Hi 👋, I'm Enes</h1>
 <h3>A passionate game developer from Turkey</h3>
 
-- 🔭 I’m currently working on **FundAnalysis Project**
-
-- 🌱 I’m currently learning **ASP.NET Core MVC**
-
 - 👨‍💻 The Games I Created [https://eneroader.itch.io/](https://eneroader.itch.io/)
 
 - 📫 How to reach me **enes.ozdogan1@outlook.com**
